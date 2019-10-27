@@ -1,0 +1,5 @@
+[package]
+name = "stdoutbug"
+version = "0.1.0"
+authors = ["Jacob Hughes <jh@jakehughes.uk>"]
+edition = "2018"
